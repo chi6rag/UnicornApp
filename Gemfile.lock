@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/chi6rag/Blorgh.git
-  revision: ff402c823b85241f0b3898e7ce1af112dbda1659
+  revision: 8e9a5f9b18eb43319a181f4521cacf1725ba2eea
   specs:
     blorgh (0.0.1)
       rails (~> 4.2.0)
